@@ -3,15 +3,14 @@ Practice repository for learning Git workflows
 
 ## Description
 
-This repository contains basic information about planets in our solar system.  
-It is created for learning and practice purposes, including simple facts that are easy to understand and remember.
+This repository provides concise and well-structured information about the planets in our solar system. The content is designed to support academic learning, introductory astronomy studies, and general knowledge development.
 
-The content may be useful for:
-- Students and beginners
-- School or college assignments
-- Quick reference about planets
+The primary goal of this repository is to:
+- Present key facts about each planet in a clear and accessible format
+- Support students and beginners in understanding planetary characteristics
+- Serve as a reference for educational and learning activities
 
 ## Fun Fact
 
-**Venus is the hottest planet in our solar system**, even hotter than Mercury, because its thick atmosphere traps heat!
+**Venus is the hottest planet in the solar system**, despite not being the closest to the Sun, due to its dense atmosphere and strong greenhouse effect.
 
