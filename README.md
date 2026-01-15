@@ -1,4 +1,4 @@
-# planets-database
+# Planets-Database
 Practice repository for learning Git workflows
 
 ## Description
